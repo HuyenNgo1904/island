@@ -1,4 +1,5 @@
 # island
+Code trong branch master
 
 Câu 1: Tạo trong model 
 
